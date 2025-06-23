@@ -26,7 +26,7 @@
 <p>Entusiasta da Tecnologia da Informação em constante evolução</p>
 
 ### GitHUb Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olavo15&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=000&border_color=D92525&icon_color=30A3DC&title_color=E94D5F&text_color=F28705)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olavo15&show_icons=true&include_all_commits=true&theme=transparent&bg_color=000&border_color=D92525&icon_color=30A3DC&title_color=E94D5F&text_color=F28705)
 
 ## Contributions
 ![snake svg](https://raw.githubusercontent.com/Olavo15/Olavo15/output/github-contribution-grid-snake.svg)
