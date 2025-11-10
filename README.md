@@ -1,5 +1,5 @@
 # Olá! Eu sou o Olavo Regis ✔️
-<p>Atualmente, estou aprofundando meus conhecimentos ao cursar Análise e Desenvolvimento de Sistemas, explorando a criação e implementação de soluções inovadoras de software.</p>
+<p>Atualmente, atuo como QA (Quality Assurance) na Brisanet, onde contribuo para garantir a qualidade e a excelência dos sistemas desenvolvidos. Paralelamente, curso Análise e Desenvolvimento de Sistemas, aprimorando minhas habilidades na criação e implementação de soluções tecnológicas inovadoras que geram impacto real.</p>
 
 ## Conecte-se Comigo
 
