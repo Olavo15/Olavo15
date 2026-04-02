@@ -1,37 +1,86 @@
-# Olá! Eu sou o Olavo Regis ✔️
-<p>Atualmente, atuo como QA (Quality Assurance) na Brisanet, onde contribuo para garantir a qualidade e a excelência dos sistemas desenvolvidos. Paralelamente, curso Análise e Desenvolvimento de Sistemas, aprimorando minhas habilidades na criação e implementação de soluções tecnológicas inovadoras que geram impacto real.</p>
+<div align="center">
 
-## Conecte-se Comigo
+# 👋 Olá, eu sou o Olavo Regis  
+### 🚀 QA Engineer | Test Automation | Full Stack Developer
+
+<img src="https://streak-stats.demolab.com/?user=Olavo15&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🧠 Sobre mim
+
+Sou QA (Quality Assurance) na **Brisanet**, focado em garantir qualidade, confiabilidade e performance de sistemas.
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+⚡ Experiência com testes manuais e automação (Cypress)  
+💻 Desenvolvedor Full Stack com foco em soluções eficientes  
+🔐 Interesse em segurança e testes avançados  
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olavo-regis-22b57b297/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/olavo_r15/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:olavopereira182@gmail.com)</br>
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:olavopereira182@gmail.com)
+<div align="center">
 
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com) -->
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://olavo-r-portfolio.vercel.app/)
 
-## Tecnologia e ferramentas: 
+</div>
+
+</div>
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<p>Entusiasta da Tecnologia da Informação em constante evolução</p>
+</div>
 
-### GitHUb Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Olavo15&size_weight=0.5&count_weight=0.5)
+---
 
-## Contributions
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Olavo15&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Olavo15&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+
 ![snake svg](https://raw.githubusercontent.com/Olavo15/Olavo15/output/github-contribution-grid-snake.svg)
-<!--
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Olavo15&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
+</div>
 
--->
+---
+
+<div align="center">
+
+💡 *"Tecnologia não é só código, é impacto."*
+
+</div>
