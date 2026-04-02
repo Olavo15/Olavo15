@@ -17,6 +17,7 @@ Sou QA (Quality Assurance) na **Brisanet**, focado em garantir qualidade, confia
 ⚡ Experiência com testes manuais e automação (Cypress)  
 💻 Desenvolvedor Full Stack com foco em soluções eficientes  
 🔐 Interesse em segurança e testes avançados  
+
 ---
 
 ## 🌐 Conecte-se comigo
