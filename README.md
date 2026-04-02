@@ -17,27 +17,6 @@ Sou QA (Quality Assurance) na **Brisanet**, focado em garantir qualidade, confia
 ⚡ Experiência com testes manuais e automação (Cypress)  
 💻 Desenvolvedor Full Stack com foco em soluções eficientes  
 🔐 Interesse em segurança e testes avançados  
-
----
-## 📌 Áreas de Atuação
-
-- **QA e Testes**
-  - Testes manuais
-  - Automação de testes
-  - Validação de fluxos e regras de negócio
-  - Qualidade de software
-
-- **Desenvolvimento**
-  - Front-end
-  - Back-end
-  - APIs REST
-  - Integrações
-
-- **Segurança e Redes**
-  - Análise de tráfego
-  - Ferramentas de diagnóstico
-  - Estudos em segurança ofensiva e defensiva
-
 ---
 
 ## 🌐 Conecte-se comigo
