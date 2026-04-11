@@ -68,6 +68,7 @@ Sou QA (Quality Assurance) na **Brisanet**, focado em garantir qualidade, confia
 ---
 
 
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -87,10 +88,11 @@ Sou QA (Quality Assurance) na **Brisanet**, focado em garantir qualidade, confia
 
 </div>
 
+
 ---
 
 <div align="center">
 
-💡 *"Tecnologia não é só código, é impacto."*
+💡 *"Tecnologia não é só código, é impacto.🕸️"*
 
 </div>
