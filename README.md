@@ -93,6 +93,6 @@ Sou QA (Quality Assurance) na **Brisanet**, focado em garantir qualidade, confia
 
 <div align="center">
 
-💡 *"Tecnologia não é só código, é impacto.🕸️"*
+💡 *"Tecnologia não é só código, é impacto.🔥🔥"*
 
 </div>
